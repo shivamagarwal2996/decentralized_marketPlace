@@ -1,14 +1,16 @@
 # decentralized_marketPlace
 
-Readme file with steps to understand working and running of the project:
-Some prerequisite to be installed on systems are:
-Node.js (https://nodejs.org/en/) latest version of the Node.js from the website. NPM (https://www.npmjs.com/get-npm).
-Ganache-CLI (https://github.com/trufflesuite/ganache-cli/blob/develop/README.md). Metamask (https://metamask.io) web extension of the metamask.
-The working and running of the project:
-1. Unzip the D-commerce and you will have all the files in different folders.
+Readme file with steps to understand working and running of the project:<br />
+Some prerequisite to be installed on systems are:<br />
+Node.js (https://nodejs.org/en/) latest version of the Node.js from the website.<br />
+NPM (https://www.npmjs.com/get-npm).<br />
+Ganache-CLI (https://github.com/trufflesuite/ganache-cli/blob/develop/README.md). <br />
+Metamask (https://metamask.io) web extension of the metamask.<br />
+The working and running of the project:<br />
+1. Unzip the D-commerce and you will have all the files in different folders.<br />
 2. Make sure to open the project in any IDE like VS studio code and be in the folder of
-Dcommerce. If not use -> cd Dcommerce , after opening project.
-3. Now to install all the latest node module use the command -> npm install.
+Dcommerce. If not use -> cd Dcommerce , after opening project.<br />
+3. Now to install all the latest node module use the command -> npm install.<br />
 4. For installing truffle use -> npm install -g truffle.
 With truffle we can perform various functions such as smart contract management, Automated testing, deployment and Migration, development truffle console.
 5. Once we download the Ganache from the website, run the installer and then set up a workspace we named (in our case as “D-commerce”) which is our personal block chain.
